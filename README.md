@@ -1,2 +1,2 @@
-# Topicos-Especiais-Fatec
-##Introdução a gestão de código fonte
+#     Topicos-Especiais-Fatec
+## Introdução à gestão de Código Fonte
